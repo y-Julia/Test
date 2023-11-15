@@ -1,7 +1,7 @@
 import requests
 
 # Replace with your personal access token
-access_token = "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"
+access_token = "access_token"
 
 # Replace with your username
 username = 'yingying-maker'
