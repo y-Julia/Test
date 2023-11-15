@@ -4,11 +4,11 @@ import requests
 access_token = "access_token"
 
 # Replace with your username
-username = 'yingying-maker'
+username = 'username'
 
 # Set up proxy information
-proxy_host = 'http://127.0.0.1'
-proxy_port = '50032'
+proxy_host = 'http://XXX.XX.X'
+proxy_port = 'XXXX'
 proxies = {
     'http': f'{proxy_host}:{proxy_port}',
     'https': f'{proxy_host}:{proxy_port}'
